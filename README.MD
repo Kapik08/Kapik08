@@ -1,3 +1,4 @@
-<img src="Banner.png" height=100>
+<img src="Banner.png" height=400>
 
 <p>Lubie kebaby i programowanie</p>
+
